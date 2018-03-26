@@ -310,6 +310,10 @@ If you think this `tai` thing might be worthwhile and you don't see a feature
 or venue listed we would love your contributions to add them! Feel free to 
 drop us an email or open a Github issue.
 
+## Contributing
+
+[link to](CONTRIBUTING.md)
+
 ## Authors
 
 * Alex Kwiatkowski - alex+git@rival-studios.com
